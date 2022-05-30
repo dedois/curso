@@ -1,0 +1,23 @@
+.menu {
+   margin-left: 100px;
+   position: center;
+    margin-top: 80px;
+     display: flex;
+   
+
+    
+    
+
+
+}
+.img, h1{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-left: 50px; 
+    position: center;
+    margin-top: 0px;
+
+    
+    
+}
